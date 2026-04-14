@@ -324,8 +324,8 @@ ul{
     align-content: center;
 }
 .image-content img {
-    width: 70%;
-    height: 10%;
+    width: 80%;
+    height: auto;
     border-radius: 5px;
     border: 0.5rem solid;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
